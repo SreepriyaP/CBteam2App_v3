@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e68f90c5356de4a3692875c08a0a84faaba00b9">
+        <dex dex="C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\build\intermediates\pre-dexed\debug\backend-android-endpoints_3d484de549348c61b44abcfe34bc21e95480baa7.jar" />
+    </item>
+
+</items>

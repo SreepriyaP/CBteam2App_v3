@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:6:22-69
+application
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sreepriya\.android\build-cache\366b24341bea74f90981527093d0031666d33eaa\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Sreepriya\.android\build-cache\24f452a6bb6dda8b171e1f54e2136a77e1493c56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\5f238572197eafd9edf063d15b7f327dede087ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\9be2d34a933ab0fa79594bfb0b4883684bfbcbf9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Sreepriya\.android\build-cache\c3909879ea426193ed337c40db55672f25ff6132\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\Sreepriya\.android\build-cache\aa8d92b527a01e2a91678690ab258ef3d1313403\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\c981f149ebbac5279295d731994661fdb10b7efb\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\Sreepriya\.android\build-cache\fbc3cb1395924204bfb0efa6fa404e98276bfc74\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Sreepriya\.android\build-cache\68c861812dda94e59535cda400e1d5275834aff8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Sreepriya\.android\build-cache\3c9724f1f7e030ab5aba65eb2ab0236c0c4ab4ee\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Sreepriya\.android\build-cache\22c0a1045cf12118a2651a6e4171dc16f8e593ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Sreepriya\.android\build-cache\c4f2b45858b4488f861bbb72f265bbfab42fb5a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\23e54ae7760fe8f3eff79169addd4f4684bb484e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Sreepriya\.android\build-cache\02b66363e015a9fa99d137bcde12b1975a3cc2bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Sreepriya\.android\build-cache\ec07ffbc075d481dc4209f4f0e382f5fcbf01df5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\ebd3f4a01a659f57f8ff9515e20fcff300f934a4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:9:9-32
+activity#com.cbteam2app.android.MainActivity
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sreepriya\.android\build-cache\366b24341bea74f90981527093d0031666d33eaa\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Sreepriya\.android\build-cache\24f452a6bb6dda8b171e1f54e2136a77e1493c56\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\5f238572197eafd9edf063d15b7f327dede087ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\9be2d34a933ab0fa79594bfb0b4883684bfbcbf9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Sreepriya\.android\build-cache\4354936e07df3d1f6480eed0677027c30fe3c819\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Sreepriya\.android\build-cache\c3909879ea426193ed337c40db55672f25ff6132\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:9.0.2] C:\Users\Sreepriya\.android\build-cache\15576d53842f590ac2828ea0dc709cff8329fa0f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.2] C:\Users\Sreepriya\.android\build-cache\c2475d08a2501147e7e37f28cf9d590483b82133\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\Sreepriya\.android\build-cache\aa8d92b527a01e2a91678690ab258ef3d1313403\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\c981f149ebbac5279295d731994661fdb10b7efb\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] C:\Users\Sreepriya\.android\build-cache\5fb8ca1509cec4b7255bb9336ed68961c4dfac5e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\Sreepriya\.android\build-cache\fbc3cb1395924204bfb0efa6fa404e98276bfc74\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Sreepriya\.android\build-cache\68c861812dda94e59535cda400e1d5275834aff8\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Sreepriya\.android\build-cache\3c9724f1f7e030ab5aba65eb2ab0236c0c4ab4ee\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Sreepriya\.android\build-cache\22c0a1045cf12118a2651a6e4171dc16f8e593ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Sreepriya\.android\build-cache\c4f2b45858b4488f861bbb72f265bbfab42fb5a1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\23e54ae7760fe8f3eff79169addd4f4684bb484e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Sreepriya\.android\build-cache\02b66363e015a9fa99d137bcde12b1975a3cc2bd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Sreepriya\.android\build-cache\ec07ffbc075d481dc4209f4f0e382f5fcbf01df5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\ebd3f4a01a659f57f8ff9515e20fcff300f934a4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sreepriya\Downloads\CBteam2App2\CBteam2App\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Sreepriya\.android\build-cache\24f452a6bb6dda8b171e1f54e2136a77e1493c56\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\5f238572197eafd9edf063d15b7f327dede087ef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Sreepriya\.android\build-cache\9be2d34a933ab0fa79594bfb0b4883684bfbcbf9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Sreepriya\.android\build-cache\4354936e07df3d1f6480eed0677027c30fe3c819\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Sreepriya\.android\build-cache\c3909879ea426193ed337c40db55672f25ff6132\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Sreepriya\.android\build-cache\22c0a1045cf12118a2651a6e4171dc16f8e593ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Sreepriya\.android\build-cache\c4f2b45858b4488f861bbb72f265bbfab42fb5a1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\23e54ae7760fe8f3eff79169addd4f4684bb484e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Sreepriya\.android\build-cache\02b66363e015a9fa99d137bcde12b1975a3cc2bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Sreepriya\.android\build-cache\ec07ffbc075d481dc4209f4f0e382f5fcbf01df5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Sreepriya\.android\build-cache\ebd3f4a01a659f57f8ff9515e20fcff300f934a4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\Sreepriya\.android\build-cache\00a7ddbc3ab473fee8a2112f0dff35a6fbd36c50\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\Sreepriya\.android\build-cache\e7570eb940deda08c85e738fc9db091e9fc551f8\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\Sreepriya\.android\build-cache\b5bacbb6b02a9bf1c93622217fc6b6f148ce0d39\output\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Sreepriya\.android\build-cache\c61cd1e9febbdcddcf9e2ef59bfdc316ef23c759\output\AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Sreepriya\.android\build-cache\7ea80a722e9af34f99092e99b8ebecff156f120c\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Sreepriya\.android\build-cache\f2936bcd00b292c37c20050f1e01aaf3b7acee9c\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Sreepriya\.android\build-cache\3c9724f1f7e030ab5aba65eb2ab0236c0c4ab4ee\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Sreepriya\.android\build-cache\3c9724f1f7e030ab5aba65eb2ab0236c0c4ab4ee\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Sreepriya\.android\build-cache\3c9724f1f7e030ab5aba65eb2ab0236c0c4ab4ee\output\AndroidManifest.xml:22:13-58

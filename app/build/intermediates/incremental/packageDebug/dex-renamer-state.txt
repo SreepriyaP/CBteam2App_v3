@@ -1,0 +1,4 @@
+#Sun Apr 09 19:53:47 EDT 2017
+base.0=C\:\\Users\\Sreepriya\\Downloads\\CBteam2App2\\CBteam2App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Sreepriya\\Downloads\\CBteam2App2\\CBteam2App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
